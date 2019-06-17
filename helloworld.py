@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("helloworld")
 =======
+=======
+>>>>>>> 0d1715a684bfc8073bc8c46e3c60a3b31f945ca1
 print ("I dindu nuffin")
 print("hji")
 print("commit")
