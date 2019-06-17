@@ -1,4 +1,4 @@
-print ("wtf just happened")
+print ("I dindu nuffin")
 print("hji")
 print("commit")
 <<<<<<< HEAD
