@@ -1,1 +1,1 @@
-print("Remote Change")
+print("Remote Changes")
