@@ -1,1 +1,1 @@
-nibba nibba
+print("nibba nibba")
