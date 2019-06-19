@@ -1,1 +1,1 @@
-print("Sprint 4 test")
+print("Sprint 4")
