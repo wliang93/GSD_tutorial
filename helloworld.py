@@ -1,1 +1,1 @@
-allahu ahkbar
+nibba nibba
